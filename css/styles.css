@@ -1,0 +1,51 @@
+
+body{
+    background-color: aqua;
+}
+
+.container{
+    background-color: darkblue;
+    height: 100vh;
+}
+
+.row{
+    background-color: orange;
+    height: 100vh;
+}
+
+.colBox{
+    background-color: azure;
+    height: 80vh;
+    border: 1px solid black;
+}
+.calc{
+    background-color: red;
+    width: 300px;
+    height: 400px;
+align-items: ;
+}
+
+.calc-input{
+    margin: 2px;
+   
+}
+.guarda{
+    background-color: violet;
+    height: 50px;
+}
+.fila{
+    background-color: orange;
+    height: 60px;
+    border:1px solid black;
+    display: flex;
+}
+.boton{
+    width: 75px;
+    
+}
+.boton1{
+    width: 150px;
+}
+.info{
+    text-align: center;
+}
